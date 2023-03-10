@@ -4,3 +4,7 @@ flask_bcrypt
 flask_login 
 flask_wtf
 Pillow
+LoginManager
+email_validator
+wtforms.validators
+UserMixin
